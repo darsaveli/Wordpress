@@ -11,7 +11,9 @@ To use WordPress we need a web server
 3. Register WordPress (login/password)
 4. Start creating on whatever wiht WordPress Dashbord. <!--https://www.ecowebhosting.co.uk/cp/managehosting-->
 
+## Getting Started with WordPress
 
+https://codex.wordpress.org/Getting_Started_with_WordPress
 
 
 
