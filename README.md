@@ -1,5 +1,5 @@
 <h1 align="center"> WordPress </h1>
-is a free and open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database, that allows to update and eddit without using code. 
+WordPress is a free and open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database, that allows to update and eddit without using code. 
 
 https://wordpress.org/
 
