@@ -15,6 +15,25 @@ To use WordPress we need a web server
 
 https://codex.wordpress.org/Getting_Started_with_WordPress
 
+### WP Dashboard
+...
+
+### WP Themes
+...
+
+#### Additional resources:
+http://easywpguide.com/
+#### Introductory Guide
+http://www.simplybusiness.co.uk/microsites/wordpress-for-small-businesses/
+#### Great Guide On Using Wordpress For Business
+http://wordpress.org/themes/
+http://www.elegantthemes.com/
+http://themeforest.net/category/wordpress
+http://www.templatemonster.com/wordpress-themes.php
+#### Wordpress Themes (free and paid)
+http://www.woothemes.com/woocommerce/
+#### Great Ecommerce Plugin
+http://theme.co/x/
 
 
 
